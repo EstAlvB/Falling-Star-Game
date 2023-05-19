@@ -1,1 +1,5 @@
-# Falling-Star-Game
+# Falling Star Game
+
+Este repositorio se creó con la finalidad de compartir con ustedes este juego que cree en Processing. El juego consiste en que el usuario debe controlar una estrella fugaz para llegar lo más lejos posible de un viaje en el espacio, y evitar chocar con los asteroides que aparecen aleatoriamente a lo largo del juego. El juego presenta una ambientación en el espacio, donde se pueden observar planetas, estrellas y asteroides. Si el jugador choca con uno de estos asteroides perderá y se acabará el juego. Sin embargo, el usuario puede protegerse de estos objetos si agarra una estrella especial que aparece cada cierto tiempo. Esta estrella es más brillante que todas las demás y parpadea. Al tocar esta estrella el usuario obtendrá un escudo que es capaz de destruir asteroides, pero solo por un corto periodo de tiempo, y después perderá el escudo. El usuario además puede elegir una canción para que esta se reproduzca durante todo el juego. Las señales producidas por esta música harán que la estética visual cambie; lo que hace que el usuario tenga una gran experiencia visual y auditiva.
+
+Espero les guste :)
